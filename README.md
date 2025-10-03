@@ -1,9 +1,3 @@
-elifbeyzatok00: bu proje ve pdf için README hazırla
-
-Workspace: Collecting workspace informationAşağıda projeniz ve PDF dosyanız için uygun bir README örneği bulabilirsiniz.
-
----
-
 # Mini GPT
 
 Bu proje, temel bir karakter düzeyinde dil modeli olan Mini GPT'nin PyTorch ile sıfırdan uygulanmasını içerir. Model, Shakespeare'in eserlerinden oluşan küçük bir veri kümesi üzerinde eğitilmiştir ve metin üretimi yapabilmektedir.
